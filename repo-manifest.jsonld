@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vkostyukov/scalacaster/commit/807f0a954cf7715e3d0e976fe47cf29a4edb1955",
       "git:hexsha": "807f0a954cf7715e3d0e976fe47cf29a4edb1955",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
